@@ -12,7 +12,9 @@
 模型介紹:
 
 1.開源工具:tensorflow,jieba,keras,pandas
+
 2.模型類型:LSTM
+
 3.模型相關說明:
 
 ![image](https://github.com/openaifab/suicide_lstm/blob/master/model_detail.png)
