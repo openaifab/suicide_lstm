@@ -27,9 +27,9 @@
 
 7.模型output:介於0~100%的自殺風險評估百分比分數
 
-8.模型訓練時間:五分鐘之內
+8.模型訓練時間:約十分鐘之內
 
-9.模型預測時間:五分鐘之內(預測一千筆留言)
+9.模型預測時間:約五分鐘之內(預測一千筆留言)
 
 
 ![image](https://github.com/openaifab/suicide_lstm/blob/master/suicide_lstm.jpg)
